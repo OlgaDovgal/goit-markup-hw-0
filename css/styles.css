@@ -247,7 +247,7 @@ border-right: 1px solid #e7e9fc;
 /*===========Footer style ======*/
 .page-footer {
   background-color: #2e2f42;
-  padding: 100px 0 100px 156px;
+  padding: 100px 0;
 }
 .footer-logo .part-logo {
   color: #f4f4fd;
